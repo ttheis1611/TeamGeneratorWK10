@@ -1,0 +1,27 @@
+{
+  "name": "teamgeneratorwk10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jest": "^26.6.3",
+    "node": "^15.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttheis1611/TeamGeneratorWK10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttheis1611/TeamGeneratorWK10/issues"
+  },
+  "homepage": "https://github.com/ttheis1611/TeamGeneratorWK10#readme"
+}
