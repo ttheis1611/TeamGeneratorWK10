@@ -1,5 +1,4 @@
 const Employee = require('../lib/Employee');
-const randomNumber = require('../lib/Employee');
 
 test('Employee instance object', () => {
   const runObject = new Employee();
