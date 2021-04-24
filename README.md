@@ -26,9 +26,9 @@ Jest, Inquirer
 Node, Bootstrap, Font Awesome 
   
 ### Screenshots
-![List of Questions](C:\Users\tlthe\Documents\blended-bootcamp\Challenges\TeamGeneratorWK10\src_template\Questions)
+![List of Questions](./src_template/Questions)
  
-![HTML page Screen Shot](C:\Users\tlthe\Documents\blended-bootcamp\Challenges\TeamGeneratorWK10\src_template\TeamScreenShot)
+![HTML page Screen Shot](./src_template/TeamScreenShot)
  
 
 
