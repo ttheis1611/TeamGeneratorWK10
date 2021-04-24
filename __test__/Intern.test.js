@@ -6,14 +6,14 @@ test("Create school", () => {
     expect(UTA.school).toBe(valTest);
   });
 
-  test("getRole() works, () => {
+  test("getRole() works", () => {
     const valTest = "Intern";
-    const int = new Intern("Foo", 1, "email@email.com", "UCLA");
-    expect(int.getRole()).toBe(valTest);
+    const stu = new Intern("Foo", 1, "email@email.com", "UCLA");
+    expect(stu.getRole()).toBe(valTest);
   });
   
   test("getSchool() works", () => {
     const valTest = "UTSA";
-    const int = new Intern("Foo", 1, "email@email.com", valTest);
-    expect(int.getSchool()).toBe(valTest);
+    const UTA = new Intern("Foo", 1, "email@email.com", valTest);
+    expect(UTA.getSchool()).toBe(valTest);
   });
