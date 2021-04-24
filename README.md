@@ -26,7 +26,7 @@ Jest, Inquirer
 Node, Bootstrap, Font Awesome 
   
 ### Screenshots
-![List of Questions](./src_template/Questions.jpg)
+![List of Questions](./src_template/Questions.png)
  
 ![HTML page Screen Shot](./src_template/TeamScreenShot.png)
  
