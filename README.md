@@ -3,7 +3,7 @@
 
 
 ## Description
-After answering questions, this application will create a webpage that displays the name, employee ID, email, role [Manager, Engineer, Intern] and school attended by the intern.
+After answering questions, this application will create a webpage that displays the name, employee ID, email, role [Manager, Engineer, Intern] and school attended by the intern role. It allows the user to display all the employees entered in a scalable webpage. Nice!
 
 ## Contents
 * [Installation](#installation)
