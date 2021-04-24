@@ -1,5 +1,5 @@
-const Manager = require("../lib/Manager");
-const Employee = require("../lib/Employee");
+const Manager = require("../lib/Manager.js");
+const Employee = require("../lib/Employee.js");
 
 test("Office number set", () => {
     const valTest = 10;
@@ -7,7 +7,7 @@ test("Office number set", () => {
     expect(mgr.officeNumber).toBe(valTest);
 });
 
-test("getRole() works, () => {
+test("getRole() works", () => {
     const valTest = "Manager";
     const mgr = new Manager("Foo", 1, "email@email.com", 10);
     expect(mgr.getRole()).toBe(valTest);
